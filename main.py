@@ -21,9 +21,9 @@ PLAN = "\n".join(
         "Sell a done-for-you customer catcher to Dallas home-service businesses with 20+ Google reviews, 4+ stars, and no website: a live one-page booking site plus their 5 newest Google reviews answered.",
         "Day 1: list 300 from Google Maps and find each owner's email on its listing or Facebook page.",
         "Days 2-30: build each a live site from a template using its own listing (services, photos, hours, click-to-call), host it free on Netlify, and email it with 5 answered reviews, 40 a day.",
-        "Price: $149 to keep the site on their domain, plus $49 a month for hosting and review replies, paid by Stripe link.",
-        "Target: 12 clients (5% reply, 1 in 5 buys) = $1,788 setup + $588 first month = $2,376 by day 30.",
-        "Keep $40 for domains and fees; if no paying client by day 7, switch the same offer to dentists; never trade, never buy ads.",
+        "Price: $149 to keep the site on their domain, plus $49 a month for review replies and upkeep, paid by Stripe link.",
+        "Target: 12 clients (5% reply, 1 in 5 buys) = $1,788 setup + $588 first month = $2,376 by day 30, about $2,300 after Stripe fees.",
+        "Keep $80 for Stripe fees and domains; if no paying client by day 7, switch the same offer to dentists; never trade, never buy ads.",
     ]
 )
 
